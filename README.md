@@ -8,6 +8,10 @@ Shapely supports most free and premium WordPress plugins such as WooCommerce, Je
 
 This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
 
+## Screenshot
+
+![shapely](screenshot.png)
+
 ## Documentation
 
 Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
